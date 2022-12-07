@@ -12,11 +12,11 @@ We can use Cracker Jokes to test ChatGPT's ability to generate text that is simi
 
 If you ask ChatGPT for Christmas Cracker style jokes, it is immediately able to give a few good examples, for instance:
 
-<img src="https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/OriginalJokes.svg?sanitize=true"  width="300">
+<img src="https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/OriginalJokes.svg?sanitize=true"  width="600">
 
 Most of these look great! The ability for it to tell jokes like this was beyond the scope of AI until very recently. However, I think I have heard one of those before....
 
-<img src="https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/CrackerJokesFromChatGPT.svg?sanitize=true"  width="400">
+<img src="https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/CrackerJokesFromChatGPT.svg?sanitize=true"  width="700">
 
 ChatGPT was trained on huge datasets of human text, and so while it is impressive, the AI is like a child repeating a joke they have heard from their parents.
 
