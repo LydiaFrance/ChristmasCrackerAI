@@ -22,9 +22,7 @@ ChatGPT was trained on huge datasets of human text, and so while it is impressiv
 
 Something lots of people have noticed is that ChatGPT is often very confidently incorrect, where it can justify why a joke is funny and yet is completely wrong:
 
-![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/FrostbiteExplain.svg?sanitize=true)
-
-<img src=""  width="600">
+<img src="https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/FrostbiteExplain.svg?sanitize=true"  width="600">
 
 It seems it is parroting jokes it doesn't understand.
 
@@ -32,9 +30,7 @@ It seems it is parroting jokes it doesn't understand.
 
 With a more specific topic, ChatGPT tries to make new jokes:
 
-![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/ChristmasTreeJokes.svg?sanitize=true)
-
-<img src=""  width="600">
+<img src="https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/ChristmasTreeJokes.svg?sanitize=true"  width="600">
 
 
 However, these are funny but they are not jokes. Comedians would call these **anti jokes**. 
