@@ -12,19 +12,19 @@ We can use Cracker Jokes to test ChatGPT's ability to generate text that is simi
 
 If you ask ChatGPT for Christmas Cracker style jokes, it is immediately able to give a few good examples, for instance:
 
-![](OriginalJokes.png)
+![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/OriginalJokes.svg?sanitize=true)
 
 
 
 Most of these look great! The ability for it to tell jokes like this was beyond the scope of AI until very recently. However, I think I have heard one of those before....
 
-![](CrackerJokesFromChatGPT.png)
+![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/CrackerJokesFromChatGPT.svg?sanitize=true)
 
 ChatGPT was trained on huge datasets of human text, and so while it is impressive, the AI is like a child repeating a joke they have heard from their parents.
 
 Something lots of people have noticed is that ChatGPT is often very confidently incorrect, where it can justify why a joke is funny and yet is completely wrong:
 
-![](FrostbiteExplain.png)
+![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/FrostbiteExplain.svg?sanitize=true)
 
 It seems it is parroting jokes it doesn't understand.
 
@@ -32,7 +32,7 @@ It seems it is parroting jokes it doesn't understand.
 
 With a more specific topic, ChatGPT tries to make new jokes:
 
-![](ChristmasTreeJokes.png)
+![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/ChristmasTreeJokes.svg?sanitize=true)
 
 However, these are funny but they are not jokes. Comedians would call these **anti jokes**. 
 
@@ -51,17 +51,17 @@ I often teach new improv performers to make up puns on the spot so I can try and
 
 ChatGPT can learn new information and tasks within a single session. 
 
-![](Learning01.png)
+![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/Learning01.svg?sanitize=true)
 
-![](Learning02.png)
+![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/Learning02.svg?sanitize=true)
 
 ChatGPT struggles with this as it was not trained on how words *sound*. I will help it out on this step by picking its best answers. 
 
-![](Learning03.png)
+![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/Learning03.svg?sanitize=true)
 
 As ChatGPT learns within a session, it is able to learn from its mistakes and improve and apply it to a new example:
 
-![](Learning04.png)
+![](https://raw.githubusercontent.com/LydiaFrance/ChristmasCrackerAI/main/svg/Learning04.svg?sanitize=true)
 
 
 ## How Human are these Jokes?
