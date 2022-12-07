@@ -14,6 +14,8 @@ If you ask ChatGPT for Christmas Cracker style jokes, it is immediately able to 
 
 ![](OriginalJokes.png)
 
+
+
 Most of these look great! The ability for it to tell jokes like this was beyond the scope of AI until very recently. However, I think I have heard one of those before....
 
 ![](CrackerJokesFromChatGPT.png)
